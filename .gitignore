@@ -2,6 +2,9 @@
 *~
 __pycache__
 myvenv
+staticfiles
+local_settings.py
 db.sqlite3
 /static
 .DS_Store
+*.py[co]
